@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:sec="http://www.springframework.org/security/tags"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets" xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:c="http://xmlns.jcp.org/jsp/jstl/core"
+
+>
+
+<ui:composition template="/layout.xhtml">
+
+<ui:define name="content">
+
+    <sec:authenticated>
+
+
+        <h:form>
+        <p><h:outputText value="You have #{gameController.lootBoxAmount} Lootboxes!!!"/></p>
+            <h:commandButton id="buyLootBtn" value="BUY LOOTBOX" action="#{gameController.buyLootbox}"/>
+            <h:commandButton id="openLootboxBtn" value="Open Lootbox!" action="#{gameController.openLootBox}"/>
+
+            <p><h:outputText value="You have #{gameController.inGameCashAmount} PokeDollars!"/></p>
+
+            <h:commandButton id="getCashBtn" value="Get money" action="#{gameController.getMoreMoney}"/>
+        </h:form>
+        <h2>Your Pokèmon Collection:</h2>
+
+        <h:dataTable value="#{gameController.collection}"
+                     var="copy" id="pokemonTable">
+            <h:column>
+                <f:facet name="header">PokeDex ID</f:facet>
+                <h:outputText value="#{copy.pokemon.pokeDexId}"/>
+            </h:column>
+            <h:column>
+                <f:facet name="header">Name</f:facet>
+                <h:outputText value="#{copy.pokemon.name}"/>
+            </h:column>
+            <h:column>
+                <f:facet name="header">Type</f:facet>
+                <h:outputText value="#{copy.pokemon.type}"/>
+            </h:column>
+            <h:column>
+                <f:facet name="header">Description</f:facet>
+                <h:outputText value="#{copy.pokemon.description}"/>
+            </h:column>
+            <h:column>
+                <f:facet name="header">Value</f:facet>
+                <h:outputText value="#{copy.pokemon.value} PokèDollars"/>
+            </h:column>
+            <h:column>
+                <f:facet name="header">Sell!</f:facet>
+                <h:form  prependId="false" id="detailsForm">
+                    <h:commandButton value="Sell Pokèmon"
+                                     action="#{gameController.sellPokemon(copy.id)}"
+                                     id="detailsBtn_#{trip.id}"/>
+
+                </h:form>
+            </h:column>
+        </h:dataTable>
+
+    </sec:authenticated>
+
+
+    <sec:anonymous>
+    <h2>Available Pokèmon</h2>
+    <ui:repeat value="#{gameController.allPokemon}" var="value">
+        #{value.name}<br />
+    </ui:repeat>
+    </sec:anonymous>
+</ui:define>
+
+</ui:composition>
+
+</html>

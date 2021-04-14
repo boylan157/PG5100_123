@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adbd87ba-09ef-4dc6-86ed-4ed67cdadcb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="297" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bWdP41noXXIvixcY5TQHWVI9jP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\Desktop\PG5100_123\frontend\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="no.kristiania.exam.backend.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="no.kristiania.exam.frontend.controller" />
+      <recent name="no.kristiania.exam.frontend" />
+      <recent name="no.kristiania.exam" />
+      <recent name="no.kristiania.exam.backend.service" />
+      <recent name="no.kristiania.exam.backend" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\Desktop\PG5100_123\frontend\src\main\resources\META-INF\resources" />
+      <recent name="C:\Users\Daniel\Desktop\PG5100_123\backend\src\test\resources" />
+      <recent name="C:\Users\Daniel\Desktop\PG5100_123\frontend\src\test\resources" />
+      <recent name="C:\Users\Daniel\Desktop\PG5100_123\backend\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LocalApplicationRunner">
+    <configuration name="LocalApplicationRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.kristiania.exam.LocalApplicationRunner" />
+      <module name="frontend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.kristiania.exam.frontend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopyServiceTest.testSellCopy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.kristiania.exam.backend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.kristiania.exam.backend.service" />
+      <option name="MAIN_CLASS_NAME" value="no.kristiania.exam.backend.service.CopyServiceTest" />
+      <option name="METHOD_NAME" value="testSellCopy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemServiceTest.getItemFromId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.kristiania.exam.backend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.kristiania.exam.backend.service" />
+      <option name="MAIN_CLASS_NAME" value="no.kristiania.exam.backend.service.ItemServiceTest" />
+      <option name="METHOD_NAME" value="getItemFromId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="no.kristiania.exam.backend in backend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.kristiania.exam.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.kristiania.exam.backend" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="no.kristiania.exam.backend.service in backend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.kristiania.exam.backend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.kristiania.exam.backend.service" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="frontend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="no.kristiania.exam.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LocalApplicationRunner" />
+        <item itemvalue="JUnit.no.kristiania.exam.backend in backend" />
+        <item itemvalue="JUnit.no.kristiania.exam.backend.service in backend" />
+        <item itemvalue="JUnit.ItemServiceTest.getItemFromId" />
+        <item itemvalue="JUnit.CopyServiceTest.testSellCopy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adbd87ba-09ef-4dc6-86ed-4ed67cdadcb0" name="Default Changelist" comment="" />
+      <created>1588751755493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588751755493</updated>
+      <workItem from="1588751758592" duration="43291000" />
+      <workItem from="1588837148449" duration="39149000" />
+      <workItem from="1588888834490" duration="23000" />
+      <workItem from="1588888958529" duration="283000" />
+      <workItem from="1588918822612" duration="32000" />
+      <workItem from="1601293579133" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1588770236060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588770236060" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588772967321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588772967321" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1588781432700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588781432700" />
+    <state x="738" y="379" width="443" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588766007802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="379" width="443" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588766007802" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588837652170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588837652170" />
+    <state x="509" y="284" key="FileChooserDialogImpl" timestamp="1588918853152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="509" y="284" key="FileChooserDialogImpl/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588918853152" />
+    <state width="932" height="286" key="GridCell.Tab.0.bottom" timestamp="1588889241190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="932" height="286" key="GridCell.Tab.0.bottom/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588889241190" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1588851860104" />
+    <state width="932" height="286" key="GridCell.Tab.0.center" timestamp="1588889241190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="932" height="286" key="GridCell.Tab.0.center/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588889241190" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1588851860104" />
+    <state width="932" height="286" key="GridCell.Tab.0.left" timestamp="1588889241190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="932" height="286" key="GridCell.Tab.0.left/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588889241190" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1588851860104" />
+    <state width="932" height="286" key="GridCell.Tab.0.right" timestamp="1588889241190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="932" height="286" key="GridCell.Tab.0.right/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588889241190" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1588851860104" />
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom" timestamp="1588848586132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588848586132" />
+    <state width="1877" height="282" key="GridCell.Tab.1.center" timestamp="1588848586132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.center/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588848586132" />
+    <state width="1877" height="282" key="GridCell.Tab.1.left" timestamp="1588848586131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.left/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588848586131" />
+    <state width="1877" height="282" key="GridCell.Tab.1.right" timestamp="1588848586132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.right/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588848586132" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1588752287848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588752287848" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588837179728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588837179728" />
+    <state x="342" y="215" key="new project wizard" timestamp="1588751814618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588751814618" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1588798137191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588798137191" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PG5100_123$no_kristiania_exam_backend_service_in_backend.ic" NAME="no.kristiania.exam.backend.service in backend Coverage Results" MODIFIED="1588845324226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>no.kristiania.exam.backend.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PG5100_123$no_kristiania_exam_backend_in_backend.ic" NAME="no.kristiania.exam.backend in backend Coverage Results" MODIFIED="1588844538854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>no.kristiania.exam.backend.*</FILTER>
+    </SUITE>
+  </component>
+</project>
